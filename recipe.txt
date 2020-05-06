@@ -1,2 +1,6 @@
 This is my new and first git file
 This is the second line
+
+
+
+Final  version of the application
